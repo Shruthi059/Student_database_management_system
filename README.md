@@ -30,3 +30,11 @@ Update student information.
 Delete a student record.
 
 Exit the program
+
+**Output**
+
+![Screenshot 2024-11-12 064211](https://github.com/user-attachments/assets/60b0fea4-0f4f-47d8-bdc7-36f995b15804)
+
+![Screenshot 2024-11-12 064350](https://github.com/user-attachments/assets/d28ca276-a39c-4b62-b469-fbf0e45ffb9a)
+
+![Screenshot 2024-11-12 064445](https://github.com/user-attachments/assets/3b1201ba-2df3-40a7-b8eb-093388e2a9f1)
